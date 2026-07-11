@@ -1,0 +1,2 @@
+# Gif-Resizer
+Resize gifs
